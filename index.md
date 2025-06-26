@@ -8,8 +8,6 @@ layout: default
 
 Hey y'all! I'm a 1st year graduate student in the Electrical and Computer Engineering Department at the University of Michigan - Ann Arbor. My advisor is Professor [Inigo Incer](https://iincer.github.io/). I'm interested in using formal methods and other mathematical tools for the design and verification of complex systems. 
 
-<!-- 
-
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
@@ -39,5 +37,3 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
-
---!>
