@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: "/"
  - name: "CV"
-   link: "cv.pdf"
+   link: "CV.pdf"
  - name: "Contact"
    link: "contact"
