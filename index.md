@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="possum.png">
 
 Hey y'all! I'm a 1st year graduate student in the Electrical and Computer Engineering Department at the University of Michigan - Ann Arbor. My advisor is Professor [Inigo Incer](https://iincer.github.io/). I'm interested in using formal methods and other mathematical tools for the design and verification of complex systems. 
 
