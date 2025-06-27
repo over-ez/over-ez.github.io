@@ -1,5 +1,5 @@
 title: Emily Zhao
-url: "https://over-ez.gitbub.io"
+url: "https://over-ez.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Home"
    link: "/"
  - name: "CV"
    link: "CV.pdf"
